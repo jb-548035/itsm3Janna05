@@ -1,8 +1,17 @@
 <h1 align="center">Hi 👋, I'm Janna Barrios</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
+- 🌱 I’m currently learning **HTML & CSS languages**
+
+- 📫 How to reach me **janna05.barrios@gmail.com**
+
+- ⚡ Fun fact **My birthdate is on 05/05/2005**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://kaggle.com/janna barrios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="janna barrios" height="30" width="40" /></a>
+<a href="https://fb.com/janna barrios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janna barrios" height="30" width="40" /></a>
+<a href="https://instagram.com/unknown.error0114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unknown.error0114" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
